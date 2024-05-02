@@ -231,4 +231,15 @@
     <string name="pref_accounts_title">Аккаунты Google</string>
     <string name="pref_accounts_summary">Добавление и управление учётными записями Google</string>
     <string name="pref_vending_billing_enable_switch">Обрабатывать платёжные запросы</string>
+    <string name="credentials_assisted_cancel">Отмена</string>
+    <string name="credentials_assisted_continue">Продолжить</string>
+    <string name="credentials_assisted_confirmation_header">Вход в систему</string>
+    <string name="credentials_assisted_signin_consent_header">Войти как %1$s</string>
+    <string name="credentials_assisted_sign_back_title">Снова войти в %1$s с аккаунтом Google</string>
+    <string name="credentials_assisted_choose_account_label">Выберите аккаунт</string>
+    <string name="credentials_assisted_choose_account_subtitle">для продолжения использования %1$s</string>
+    <string name="credentials_assisted_signin_button_text_long">Вход с аккаунтом Google</string>
+    <string name="credentials_assisted_continue_as_user_button_label">Продолжить как %1$s</string>
+    <string name="credentials_assisted_signin_consent">Если продолжите, Google предоставит %1$s ваше имя, адрес электронной почты и фотографию профиля. Ознакомьтесь с политикой конфиденциальности и условиями использования %1$s.</string>
+    <string name="credentials_assisted_signin_description">Вы можете управлять авторизацией в своих учетных записях Google.</string>
 </resources>
