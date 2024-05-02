@@ -231,4 +231,15 @@
     <string name="pref_vending_billing_enable_summary">Калі ўключана, некаторыя прыкладанні змогуць здзяйсняць пакупкі ці падпіскі праз службу Google Play Billing.</string>
     <string name="pref_vending_billing_enable_switch">Апрацоўваць плацежныя запыты</string>
     <string name="pref_vending_billing_note_licensing">Некаторым прыкладанням можа спатрэбіцца, каб вы ўключылі праверку ліцэнзіі для праверкі вашых плацяжоў.</string>
+    <string name="credentials_assisted_confirmation_header">Уваход у сістэму</string>
+    <string name="credentials_assisted_continue_as_user_button_label">Працягнуць як %1$s</string>
+    <string name="credentials_assisted_signin_consent_header">Увайсці як %1$s</string>
+    <string name="credentials_assisted_signin_description">Вы можаце кіраваць аўтарызацыяй у сваіх уліковых запісах Google.</string>
+    <string name="credentials_assisted_choose_account_label">Абярыце акаўнт</string>
+    <string name="credentials_assisted_choose_account_subtitle">каб працягваць карыстацца %1$s</string>
+    <string name="credentials_assisted_signin_button_text_long">Уваход з акаўнтам Google</string>
+    <string name="credentials_assisted_cancel">Адмена</string>
+    <string name="credentials_assisted_continue">Працягнуць</string>
+    <string name="credentials_assisted_sign_back_title">Зноў увайсьці ў %1$s з акаўнтам Google</string>
+    <string name="credentials_assisted_signin_consent">Калі працягнеце, Google прадаставіць %1$s ваша імя, адрас электроннай пошты і фатаграфію профіля. Азнаёмцеся з палітыкай прыватнасці і з умовамі выкарыстання %1$s.</string>
 </resources>
