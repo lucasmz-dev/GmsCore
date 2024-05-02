@@ -34,4 +34,5 @@
     <string name="pref_location_custom_url_summary">Этот параметр позволяет настроить URL-адрес службы. Неверные значения могут привести к тому, что службы определения местоположения перестанут отвечать на запросы или будут полностью недоступны.</string>
     <string name="pref_location_custom_url_details">Путь /v1/geocate будет добавлен автоматически. Если провайдеру местоположения требуется ключ, его можно добавить к корневому URL-адресу в качестве параметра запроса.</string>
     <string name="pref_location_custom_url_input_hint">Свой адрес службы</string>
+    <string name="location_settings_dialog_message_grant_permissions">Разрешить сервисам microG доступ к местоположению</string>
 </resources>
