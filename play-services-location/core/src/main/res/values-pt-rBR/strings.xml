@@ -34,4 +34,5 @@
     <string name="pref_location_custom_url_input_hint">URL de um serviço customizado</string>
     <string name="pref_location_custom_url_summary">Isto permite que você configure uma URL de um serviço customizado. Valores inválidos podem resultar nos serviços de localização ficando sem resposta ou completamente indisponíveis.</string>
     <string name="pref_location_custom_url_details">O caminho \"/v1/geolocate\" é anexado automaticamente. Se o provedor de localização requer o uso de uma chave, ela pode ser anexada como um parâmetro de consulta na URL raiz.</string>
+    <string name="location_settings_dialog_message_grant_permissions">Conceder permissões de localização aos serviços microG</string>
 </resources>
