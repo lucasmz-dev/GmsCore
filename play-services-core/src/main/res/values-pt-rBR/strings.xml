@@ -245,13 +245,13 @@ Isso pode demorar alguns minutos."</string>
     <string name="pref_vending_billing_enable_summary">Quando ativado, alguns aplicativos podem completar compras ou começar assinaturas pelo serviço de cobrança do Google Play.</string>
     <string name="pref_vending_billing_note_experimental">Esta função é experimental e pode causar perca de dinheiro. Você foi avisado.</string>
     <string name="pref_vending_billing_note_licensing">Alguns aplicativos podem precisar que você ative a verificação de licença para verificar suas compras.</string>
-    <string name="credentials_assisted_confirmation_header">Te logando</string>
+    <string name="credentials_assisted_confirmation_header">Conectando você</string>
     <string name="credentials_assisted_continue_as_user_button_label">Continuar como %1$s</string>
-    <string name="credentials_assisted_sign_back_title">Fazer login de volta em %1$s com Google</string>
+    <string name="credentials_assisted_sign_back_title">Fazer login novamente em %1$s com Google</string>
     <string name="credentials_assisted_signin_consent_header">Fazendo login como %1$s</string>
     <string name="credentials_assisted_signin_description">Você pode gerenciar o \"Login com o Google\" em suas contas do Google.</string>
     <string name="credentials_assisted_choose_account_label">Escolher conta</string>
-    <string name="credentials_assisted_choose_account_subtitle">para continuar em %1$s</string>
+    <string name="credentials_assisted_choose_account_subtitle">para continuar para %1$s</string>
     <string name="credentials_assisted_signin_button_text_long">Fazer login com Google</string>
     <string name="credentials_assisted_cancel">Cancelar</string>
     <string name="credentials_assisted_continue">Continuar</string>
