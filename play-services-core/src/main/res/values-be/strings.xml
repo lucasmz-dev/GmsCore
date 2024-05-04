@@ -92,9 +92,9 @@
     <string name="prefs_account">Настройкі акаўнта</string>
     <string name="prefs_account_privacy">Персанальная інфармацыя і прыватнасць</string>
     <string name="prefs_account_security">Аўтарызацыя і бяспека</string>
-    <string name="pref_auth_trust_google_title">Давяраць дазволам Google у прыкладаннях</string>
-    <string name="pref_auth_trust_google_summary">Калі параметр адключаны, то ў карыстальніка запытваецца дазвол для аўтарызацыі Google. Пэўныя праграмы не змогуць выкарыстоўваць уліковы запіс Google, калі гэтая магчымасць адключаная.</string>
-    <string name="pref_auth_visible_title">Дазволіць прыкладанням знаходзіць акаўнты</string>
+    <string name="pref_auth_trust_google_title">Аўтаматычна ўваходзіць з Google</string>
+    <string name="pref_auth_trust_google_summary">Калі параметр адключаны, то ў карыстальніка запытваецца дазвол на аўтарызацыю прыкладання ў Google. Некаторыя праграмы не змогуць выкарыстоўваць уліковы запіс Google, калі гэтая магчымасць адключаная.</string>
+    <string name="pref_auth_visible_title">Дазволіць прыкладанням знаходзіць акаўнты Google</string>
     <string name="pref_auth_visible_summary">Калі ўключана, усе прыкладанні на гэтай прыладзе змогуць бачыць адрасы электроннай пошты вашых уліковых запісаў Google без папярэдняга дазволу.</string>
     <string name="pref_checkin_enable_summary">Рэгіструе вашу прыладу ў сэрвісах Google і стварае унікальны ідэнтыфікатар. MicroG выдаляе ўсе ідэнтыфікуючыя біты, акрамя імя вашага акаўнта Google.</string>
     <string name="pref_device_registration_android_id">Android ID</string>
@@ -172,7 +172,7 @@
     <string name="pref_safetynet_recent_request_type">Тып запыту</string>
     <string name="pref_safetynet_recent_cat_basic">Асноўныя дадзеныя</string>
     <string name="pref_safetynet_recent_token">Токен</string>
-    <string name="pref_auth_include_android_id_title">Аўтэнтыфікацыя праз рэгістрацыю прылады</string>
+    <string name="pref_auth_include_android_id_title">Дасылаць інфармацыю пра прыладу падчас праверкі</string>
     <string name="pref_recaptcha_enterprise_test_title">Тэст ReCAPTCHA Enterprise</string>
     <string name="pref_droidguard_unsupported_summary">Запуск DroidGuard не падтрымліваюцца на гэтай прыладзе. Сэрвісы SafetyNet могуць не працаваць.</string>
     <string name="pref_safetynet_recent_recaptcha_summary">ReCaptcha: %s</string>
