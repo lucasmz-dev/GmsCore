@@ -227,4 +227,11 @@
 \nNaglalaman ng microG GmsCore ang libreng implementasyon ng SafetyNet, pero ang opisyal na server ay nangangailangan na ang mga SafetyNet request ay naka-sign gamit ang proprietary na sistema ng DroidGuard.</string>
     <string name="perm_car_vendor_extension_label">Channel ng vendor ng kotse</string>
     <string name="perm_car_vendor_extension_description">I-access ang channel ng vendor ng iyong kotse para ipagpalit ang impormasyon sa kotse</string>
+    <string name="credentials_assisted_continue">Magpatuloy</string>
+    <string name="credentials_assisted_confirmation_header">Sina-sign in ka namin</string>
+    <string name="credentials_assisted_cancel">Kanselahin</string>
+    <string name="credentials_assisted_continue_as_user_button_label">Magpatuloy bilang %1$s</string>
+    <string name="credentials_assisted_sign_back_title">Mag-sign in muli sa %1$s gamit ang Google</string>
+    <string name="credentials_assisted_signin_consent_header">Nagsa-sign in bilang %1$s</string>
+    <string name="credentials_assisted_signin_consent">Sa pamamagitan ng pagpatuloy, ibabahagi ng Google ang iyong pangalan, email address, at larawan ng profile sa %1$s. Tignan ang Patakaran sa Privacy at Mga Tuntunin ng Serbisyo ng %1$s.</string>
 </resources>
