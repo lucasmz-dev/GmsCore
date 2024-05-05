@@ -234,4 +234,8 @@
     <string name="credentials_assisted_sign_back_title">Mag-sign in muli sa %1$s gamit ang Google</string>
     <string name="credentials_assisted_signin_consent_header">Nagsa-sign in bilang %1$s</string>
     <string name="credentials_assisted_signin_consent">Sa pamamagitan ng pagpatuloy, ibabahagi ng Google ang iyong pangalan, email address, at larawan ng profile sa %1$s. Tignan ang Patakaran sa Privacy at Mga Tuntunin ng Serbisyo ng %1$s.</string>
+    <string name="credentials_assisted_signin_description">Maari mong ipamahala ang Pag-sign in gamit ang Google sa iyong mga Google Account.</string>
+    <string name="credentials_assisted_choose_account_label">Pumili ng account</string>
+    <string name="credentials_assisted_choose_account_subtitle">upang magpatuloy sa %1$s</string>
+    <string name="credentials_assisted_signin_button_text_long">Mag-sign in gamit ang Google</string>
 </resources>
