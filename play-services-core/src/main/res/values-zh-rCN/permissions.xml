@@ -138,4 +138,21 @@
     <string name="permission_service_sierraqa_description">允许应用通过任何已关联的Google账号访问 Google Checkout QA账号。</string>
     <string name="permission_service_sitemaps_description">允许应用通过已关联的 Google 账号访问 Google Webmaster 工具。</string>
     <string name="permission_scope_www.googleapis.com_auth_appengine.admin">应用引擎管理范围。</string>
+    <string name="permission_scope_www.googleapis.com_auth_mapsengine">查看和管理您的 Google Maps Engine 数据</string>
+    <string name="permission_scope_www.googleapis.com_auth_drive.scripts">修改你的谷歌应用脚本的行为</string>
+    <string name="permission_scope_www.googleapis.com_auth_gmail.readonly">读取所有资源及其元数据—无需写操作。</string>
+    <string name="permission_service_jotspot_label">JotSpot</string>
+    <string name="permission_service_knol_label">Knol</string>
+    <string name="permission_scope_www.googleapis.com_auth_apps.order">适用于经销商管理员和用户在API沙箱中测试时的读/写访问，或直接调用API操作时的读写访问。</string>
+    <string name="permission_scope_www.googleapis.com_auth_apps_reporting_audit.readonly">访问Admin Audit API只读权限</string>
+    <string name="permission_scope_www.googleapis.com_auth_dfareporting">查看和管理广告主点击报告</string>
+    <string name="permission_scope_www.googleapis.com_auth_gmail.compose">创建、读取、更新和删除草稿。发送邮件和草稿。</string>
+    <string name="permission_scope_www.googleapis.com_auth_latitude.all.best">管理您的最佳可用位置和位置历史记录</string>
+    <string name="permission_scope_www.googleapis.com_auth_latitude.all.city">管理您的城市级位置和位置历史记录</string>
+    <string name="permission_scope_www.googleapis.com_auth_latitude.current.best">管理您的最佳可用位置</string>
+    <string name="permission_scope_www.googleapis.com_auth_latitude.current.city">管理您的城市级位置</string>
+    <string name="permission_scope_www.googleapis.com_auth_mapsengine.readonly">查看您的 Google Maps Engine 数据</string>
+    <string name="permission_scope_www.googleapis.com_auth_mobilemaps.firstparty">查看和管理您的 Google Maps 以获得移动体验</string>
+    <string name="permission_scope_www.googleapis.com_auth_orkut">管理您的Orkut活动</string>
+    <string name="permission_scope_www.googleapis.com_auth_orkut.readonly">查看您的Orkut活动</string>
 </resources>
