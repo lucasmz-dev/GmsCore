@@ -224,7 +224,7 @@
     <string name="prefcat_push_networks_title">Mga network na gagamitin para sa push notification</string>
     <string name="safetynet_intro">Ang Google SafetyNet ay isang sistema ng sertipikason ng device, na sinisigurado na ang device ay maayos na na-secure at compatible sa Android CTS. Ang ibang mga application ay gumagamit ng SafetyNet para sa mga kadahilanang pangseguridad o isang kinakailangan para sa tamper-protection.
 \n
-\nNaglalaman ng microG GmsCore ang libreng implementasyon ng SafetyNet, pero ang opisyal na server ay nangangailangan na ang mga SafetyNet request ay naka-sign gamit ang proprietary na sistema ng DroidGuard.</string>
+\nAng microG GmsCore ay naglalaman ng libreng implementasyon ng SafetyNet, pero ang opisyal na server ay nangangailangan na ang mga hiling ng SafetyNet ay naka-sign gamit ang proprietary na sistema ng DroidGuard.</string>
     <string name="perm_car_vendor_extension_label">Channel ng vendor ng kotse</string>
     <string name="perm_car_vendor_extension_description">I-access ang channel ng vendor ng iyong kotse para ipagpalit ang impormasyon sa kotse</string>
     <string name="credentials_assisted_continue">Magpatuloy</string>
