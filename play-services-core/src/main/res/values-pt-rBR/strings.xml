@@ -42,7 +42,7 @@ Isso pode demorar alguns minutos."</string>
     <string name="perm_gtalk_svc_label">trocar mensagens e receber notificações de sincronização dos servidores do Google</string>
     <string name="perm_extended_access_label">Acesso extendido aos serviços Google</string>
     <string name="service_name_checkin">Registro do dispositivo no Google</string>
-    <string name="service_name_mcs">Mensagens pela Nuvem (Cloud Messaging)</string>
+    <string name="service_name_mcs">Cloud Messaging</string>
     <string name="games_title">Google Play Jogos</string>
     <string name="games_info_title"><xliff:g example="F-Droid">%1$s</xliff:g> gostaria de usar Play Jogos</string>
     <string name="games_info_content">Para usar o Play Games, é necessário instalar o aplicativo Google Play Jogos. O aplicativo pode continuar sem o Play Jogos, mas é possível que ele se comporte inesperadamente.</string>
@@ -71,9 +71,9 @@ Isso pode demorar alguns minutos."</string>
     <string name="self_check_pkg_vending">Play Store (Phonesky)</string>
     <string name="self_check_pkg_gsf">Services Framework (GSF)</string>
     <string name="self_check_name_app_installed"><xliff:g example="F-Droid">%1$s</xliff:g> está instalado: </string>
-    <string name="self_check_resolution_app_installed">Instalar o aplicativo <xliff:g example="F-Droid">%1$s</xliff:g> ou uma compatível. Verifique a documentação sobre quais aplicativos são compatíveis.</string>
+    <string name="self_check_resolution_app_installed">Instale o aplicativo <xliff:g example="F-Droid">%1$s</xliff:g> ou um compatível. Verifique a documentação sobre quais aplicativos são compatíveis.</string>
     <string name="self_check_name_correct_sig"><xliff:g example="F-Droid">%1$s</xliff:g> tem a assinatura correta: </string>
-    <string name="self_check_resolution_correct_sig">O <xliff:g example="F-Droid">%1$s</xliff:g> não é compatível ou o spoofing de assinatura não está ativado para ele. Verifique a documentação sobre quais aplicativos e ROMs são compatíveis.</string>
+    <string name="self_check_resolution_correct_sig">O <xliff:g example="F-Droid">%1$s</xliff:g> instalado não é compatível ou o spoofing de assinatura não está ativado para ele. Verifique a documentação sobre quais aplicativos e ROMs são compatíveis.</string>
     <string name="self_check_name_battery_optimizations">Otimizações de bateria desativadas:</string>
     <string name="self_check_resolution_battery_optimizations">Toque aqui para desativar as otimizações de bateria. Não fazer isso pode resultar em aplicativos com mal comportamento.</string>
     <!-- Settings strings -->
@@ -83,7 +83,7 @@ Isso pode demorar alguns minutos."</string>
     <string name="prefcat_location_service">Serviço de localização</string>
     <string name="prefcat_services">Serviços</string>
     <string name="cond_gcm_bat_title">Otimizações de bateria ativadas</string>
-    <string name="cond_gcm_bat_summary">Você ativou o Cloud Messaging, mas possui as otimizações de bateria ativadas para os serviços MicroG. Para que as notificações push cheguem, você deve desativar as otimizações da bateria.</string>
+    <string name="cond_gcm_bat_summary">Você ativou o Cloud Messaging, mas possui as otimizações de bateria ativadas para os serviços microG. Para que as notificações push cheguem, você deve desativar as otimizações da bateria.</string>
     <string name="cond_gcm_bat_action">Desativar otimizações</string>
     <string name="cond_perm_title">Permissão faltando</string>
     <string name="prefs_account">Preferências da conta</string>
@@ -184,7 +184,7 @@ Isso pode demorar alguns minutos."</string>
     <string name="pref_recaptcha_test_title">Testar reCAPTCHA</string>
     <string name="safetynet_intro">O SafetyNet do Google é um sistema de certificação de dispositivo, que confirma que um dispositivo é devidamente protegido e compatível com o Android CTS. Alguns aplicativos usam o SafetyNet para motivos de segurança ou como um pré-requisito para proteção contra intervenção.
 \n
-\nmicroG GmsCore contém uma implementação aberta do SafetyNet, porém o servidor oficial requer que as solitações do SafetyNet sejam assinados usando o sistema proprietário DroidGuard.</string>
+\nmicroG GmsCore contém uma implementação aberta do SafetyNet, porém o servidor oficial requer que as solitações do SafetyNet sejam assinadas usando o sistema proprietário DroidGuard.</string>
     <string name="pref_recaptcha_enterprise_test_title">Testar reCAPTCHA Empresarial</string>
     <string name="pref_test_summary_running">Rodando…</string>
     <string name="pref_droidguard_unsupported_summary">A execução do DroidGuard não é suportada neste dispositivo. Os serviços do SafetyNet podem se comportar mal.</string>
@@ -238,11 +238,22 @@ Isso pode demorar alguns minutos."</string>
     <string name="pref_accounts_title">Contas do Google</string>
     <string name="prefcat_accounts_settings_title">Configurações</string>
     <string name="prefcat_accounts_current_accounts_title">Contas</string>
-    <string name="pref_accounts_summary">Adicionar e gerenciar contas do Google</string>
+    <string name="pref_accounts_summary">Adicione e gerencie contas do Google</string>
     <string name="pref_vending_billing_category">Cobrança do Google Play</string>
     <string name="pref_vending_licensing_category">Licenciamento do Google Play</string>
     <string name="pref_vending_billing_enable_switch">Lidar com solicitações de cobrança</string>
     <string name="pref_vending_billing_enable_summary">Quando ativado, alguns aplicativos podem completar compras ou começar assinaturas pelo serviço de cobrança do Google Play.</string>
     <string name="pref_vending_billing_note_experimental">Esta função é experimental e pode causar perca de dinheiro. Você foi avisado.</string>
     <string name="pref_vending_billing_note_licensing">Alguns aplicativos podem precisar que você ative a verificação de licença para verificar suas compras.</string>
+    <string name="credentials_assisted_confirmation_header">Iniciando sua sessão</string>
+    <string name="credentials_assisted_continue_as_user_button_label">Continuar como %1$s</string>
+    <string name="credentials_assisted_sign_back_title">Fazer login novamente em %1$s com o Google</string>
+    <string name="credentials_assisted_signin_consent_header">Fazendo login como %1$s</string>
+    <string name="credentials_assisted_signin_description">Você pode gerenciar o \"Login com o Google\" em suas contas do Google.</string>
+    <string name="credentials_assisted_choose_account_label">Escolha a conta</string>
+    <string name="credentials_assisted_choose_account_subtitle">para continuar para %1$s</string>
+    <string name="credentials_assisted_signin_button_text_long">Fazer login com o Google</string>
+    <string name="credentials_assisted_cancel">Cancelar</string>
+    <string name="credentials_assisted_continue">Continuar</string>
+    <string name="credentials_assisted_signin_consent">Se continuar, o Google compartilhará seu nome, endereço de e-mail, e foto de perfil com %1$s. Veja a política de privacidade e termos de serviço de %1$s.</string>
 </resources>

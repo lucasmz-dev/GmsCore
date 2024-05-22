@@ -224,7 +224,18 @@
     <string name="prefcat_push_networks_title">Mga network na gagamitin para sa push notification</string>
     <string name="safetynet_intro">Ang Google SafetyNet ay isang sistema ng sertipikason ng device, na sinisigurado na ang device ay maayos na na-secure at compatible sa Android CTS. Ang ibang mga application ay gumagamit ng SafetyNet para sa mga kadahilanang pangseguridad o isang kinakailangan para sa tamper-protection.
 \n
-\nNaglalaman ng microG GmsCore ang libreng implementasyon ng SafetyNet, pero ang opisyal na server ay nangangailangan na ang mga SafetyNet request ay naka-sign gamit ang proprietary na sistema ng DroidGuard.</string>
+\nAng microG GmsCore ay naglalaman ng libreng implementasyon ng SafetyNet, pero ang opisyal na server ay nangangailangan na ang mga hiling ng SafetyNet ay naka-sign gamit ang proprietary na sistema ng DroidGuard.</string>
     <string name="perm_car_vendor_extension_label">Channel ng vendor ng kotse</string>
     <string name="perm_car_vendor_extension_description">I-access ang channel ng vendor ng iyong kotse para ipagpalit ang impormasyon sa kotse</string>
+    <string name="credentials_assisted_continue">Magpatuloy</string>
+    <string name="credentials_assisted_confirmation_header">Sina-sign in ka namin</string>
+    <string name="credentials_assisted_cancel">Kanselahin</string>
+    <string name="credentials_assisted_continue_as_user_button_label">Magpatuloy bilang %1$s</string>
+    <string name="credentials_assisted_sign_back_title">Mag-sign in muli sa %1$s gamit ang Google</string>
+    <string name="credentials_assisted_signin_consent_header">Nagsa-sign in bilang %1$s</string>
+    <string name="credentials_assisted_signin_consent">Sa pamamagitan ng pagpatuloy, ibabahagi ng Google ang iyong pangalan, email address, at larawan ng profile sa %1$s. Tignan ang Patakaran sa Privacy at Mga Tuntunin ng Serbisyo ng %1$s.</string>
+    <string name="credentials_assisted_signin_description">Maari mong ipamahala ang Pag-sign in gamit ang Google sa iyong mga Google Account.</string>
+    <string name="credentials_assisted_choose_account_label">Pumili ng account</string>
+    <string name="credentials_assisted_choose_account_subtitle">upang magpatuloy sa %1$s</string>
+    <string name="credentials_assisted_signin_button_text_long">Mag-sign in gamit ang Google</string>
 </resources>

@@ -34,4 +34,5 @@
     <string name="pref_location_custom_url_title">Configurează adresa URL a serviciului</string>
     <string name="pref_location_custom_url_details">Calea /v1/geolocate este atașată automat. Dacă furnizorul de locație necesită o cheie, aceasta poate fi atașată ca parametru de interogare la adresa URL rădăcină.</string>
     <string name="pref_location_custom_url_input_hint">Adresa URL personalizată a serviciului</string>
+    <string name="location_settings_dialog_message_grant_permissions">Acordă permisiunile de localizare pentru serviciile microG</string>
 </resources>
